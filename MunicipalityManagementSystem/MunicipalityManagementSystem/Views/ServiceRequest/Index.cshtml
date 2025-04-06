@@ -1,0 +1,44 @@
+﻿@model IEnumerable<MunicipalityManagementSystem.Models.ServiceRequest>
+
+@{
+    ViewData["Title"] = "Service Requests";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+
+    <p>
+        <a href="@Url.Action("Create", "ServiceRequest")" class="btn btn-primary">Create New Service Request</a>
+    </p>
+
+    <table class="table table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">CitizenID</th>
+                <th scope="col">Service Type</th>
+                <th scope="col">Request Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model.Select((value, index) => new { Value = value, Index = index + 1 }))
+            {
+                <tr>
+                    <th scope="row">@request.Index</th>
+                    <td>@request.Value.Citizen?.CitizenID</td>
+                    <td>@request.Value.ServiceType</td>
+                    <td>@request.Value.RequestDate.ToShortDateString()</td>
+                    <td>@(string.IsNullOrEmpty(request.Value.Status) ? "Pending" : request.Value.Status)</td>
+                    <td>
+                        <a href="@Url.Action("Details", "ServiceRequest", new { id = request.Value.RequestID })" class="btn btn-info btn-sm">Details</a>
+                        <a href="@Url.Action("UpdateStatus", "ServiceRequest", new { id = request.Value.RequestID })" class="btn btn-warning btn-sm">Update Status</a>
+                        <a href="@Url.Action("Delete", "ServiceRequest", new { id = request.Value.RequestID })" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

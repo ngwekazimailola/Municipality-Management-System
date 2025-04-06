@@ -1,0 +1,18 @@
+﻿@model MunicipalityManagementSystem.Models.Report
+
+@{
+    ViewData["Title"] = "Delete Report";
+    Layout = "_Layout";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="alert alert-danger">
+    <p>Are you sure you want to delete the report titled <strong>@Model.ReportType</strong> submitted by <strong>@Model.Citizen.FullName</strong>?</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.ReportID" />
+    <button type="submit" class="btn btn-danger">Delete Report</button>
+    <a href="@Url.Action("Index", "Report")" class="btn btn-secondary">Cancel</a>
+</form>

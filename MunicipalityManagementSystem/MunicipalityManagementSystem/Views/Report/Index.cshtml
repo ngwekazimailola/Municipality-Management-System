@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MunicipalityManagementSystem.Models.Report>
+
+@{
+    ViewData["Title"] = "Reports";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+
+    <p>
+        <a href="@Url.Action("Create", "Report")" class="btn btn-primary">Create New Report</a>
+    </p>
+
+    <table class="table table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Report ID</th>
+                <th scope="col">Citizen ID</th>
+                <th scope="col">Report Type</th>
+                <th scope="col">Submission Date</th>
+                <th scope="col">Details</th>
+                <th scope="col">Status</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var report in Model.Select((value, index) => new { Value = value, Index = index + 1 }))
+            {
+                <tr>
+                    <th scope="row">@report.Value.ReportID</th>
+                    <td>@report.Value.Citizen?.CitizenID</td>
+                    <td>@report.Value.ReportType</td>
+                    <td>@report.Value.SubmissionDate.ToShortDateString()</td>
+                    <td>@report.Value.Details</td>
+                    <td>@(string.IsNullOrEmpty(report.Value.Status) ? "Pending" : report.Value.Status)</td>
+                    <td>
+                        <a href="@Url.Action("Details", "Report", new { id = report.Value.ReportID })" class="btn btn-info btn-sm">Details</a>
+                        <a href="@Url.Action("Edit", "Report", new { id = report.Value.ReportID })" class="btn btn-warning btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete", "Report", new { id = report.Value.ReportID })" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

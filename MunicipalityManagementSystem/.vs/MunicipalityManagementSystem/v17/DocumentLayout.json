@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\report\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\report\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\report\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\report\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\report\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\report\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\report\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\report\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\staff\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\staff\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\staff\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\staff\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\servicerequest\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\servicerequest\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\citizen\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\citizen\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\citizen\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\citizen\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\citizen\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\citizen\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\views\\citizen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\views\\citizen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|c:\\users\\hanna\\downloads\\school\\cybersecurity\\semester1\\adp631\\municipalitymanagementsystem\\municipalitymanagementsystem\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E30758-2E64-456C-A44F-7A47DC9F6DDF}|MunicipalityManagementSystem\\MunicipalityManagementSystem.csproj|solutionrelative:municipalitymanagementsystem\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Report\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Delete.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Report\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:55:04.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Report\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Edit.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Report\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:54:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Details.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Report\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Details.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Report\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:54:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Create.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Report\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Create.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Report\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:53:59.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:52:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Staff\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Delete.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Staff\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:50:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Staff\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Edit.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Staff\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:49:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Details.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Staff\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Details.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Staff\\Details.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:49:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Create.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Staff\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Create.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Staff\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:49:00.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:48:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Delete.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:47:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\ServiceRequest\\UpdateStatus.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:47:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Details.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Details.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:46:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Create.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:45:46.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\ServiceRequest\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:45:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Citizen\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Delete.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Citizen\\Delete.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:44:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Details.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Citizen\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Details.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Citizen\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:43:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Index.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Citizen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Index.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Citizen\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:42:35.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Create.cshtml",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Views\\Citizen\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Views\\Citizen\\Create.cshtml",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Views\\Citizen\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T21:42:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Models\\ServiceRequest.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:38:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "MunicipalityManagementSystem\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\hanna\\Downloads\\SCHOOL\\CYBERSECURITY\\SEMESTER1\\ADP631\\MunicipalityManagementSystem\\MunicipalityManagementSystem\\Models\\Citizen.cs",
+              "RelativeToolTip": "MunicipalityManagementSystem\\Models\\Citizen.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:37:28.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

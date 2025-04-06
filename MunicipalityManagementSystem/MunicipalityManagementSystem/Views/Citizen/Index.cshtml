@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MunicipalityManagementSystem.Models.Citizen>
+
+@{
+    ViewData["Title"] = "Citizens";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Citizens</h1>
+
+    <p>
+        <a href="@Url.Action("Create", "Citizen")" class="btn btn-primary">Create New Citizen</a>
+    </p>
+
+    <table class="table table-hover table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Citizen ID</th>
+                <th scope="col">Full Name</th>
+                <th scope="col">Address</th>
+                <th scope="col">Phone Number</th>
+                <th scope="col">Email</th>
+                <th scope="col">DateOfBirth</th>
+                <th scope="col">Registration Date</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var citizen in Model?.Select((value, index) => new { Value = value, Index = index + 1 }) ?? Enumerable.Empty<dynamic>())
+            {
+                <tr>
+                    <th scope="row">@citizen.Value.CitizenID</th>
+                    <td>@citizen.Value.FullName</td>
+                    <td>@citizen.Value.Address</td>
+                    <td>@citizen.Value.PhoneNumber</td>
+                    <td>@(string.IsNullOrEmpty(citizen.Value.Email) ? "N/A" : citizen.Value.Email)</td>
+                    <td>@citizen.Value.DateOfBirth</td>
+                    <td>@citizen.Value.RegistrationDate</td>
+                    <td>
+                        <a href="@Url.Action("Details", "Citizen", new { id = citizen.Value.CitizenID })" class="btn btn-info btn-sm">Details</a>
+                        <a href="@Url.Action("Edit", "Citizen", new { id = citizen.Value.CitizenID })" class="btn btn-warning btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete", "Citizen", new { id = citizen.Value.CitizenID })" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

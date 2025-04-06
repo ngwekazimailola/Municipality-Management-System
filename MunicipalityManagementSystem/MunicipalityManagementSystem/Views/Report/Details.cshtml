@@ -1,0 +1,20 @@
+﻿@model MunicipalityManagementSystem.Models.Report
+
+@{
+    ViewData["Title"] = "Report Details";
+    Layout = "_Layout";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Report Type: @Model.ReportType</h5>
+        <p class="card-text"><strong>Details:</strong> @Model.Details</p>
+        <p class="card-text"><strong>Citizen:</strong> @Model.Citizen.FullName</p>
+        <p class="card-text"><strong>Submission Date:</strong> @Model.SubmissionDate.ToShortDateString()</p>
+        <p class="card-text"><strong>Status:</strong> @Model.Status</p>
+    </div>
+</div>
+
+<a href="@Url.Action("Index", "Report")" class="btn btn-secondary">Back to Reports</a>

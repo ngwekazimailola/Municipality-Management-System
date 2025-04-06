@@ -1,0 +1,26 @@
+﻿@model MunicipalityManagementSystem.Models.Citizen
+
+@{
+    ViewData["Title"] = "Delete Citizen";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+<h1>Delete Citizen</h1>
+    <p>Are you sure you want to delete the citizen @Model.FullName?</p>
+
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" name="id" value="@Model.CitizenID" />
+        <button type="submit" class="btn btn-success px-4">Delete</button>
+        <a href="@Url.Action("Index", "Citizen")" class="btn btn-secondary ms-2">Cancel</a>
+    </form>
+
+</body>
+</html>

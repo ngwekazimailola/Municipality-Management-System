@@ -1,0 +1,25 @@
+﻿@model MunicipalityManagementSystem.Models.ServiceRequest
+
+@{
+    ViewData["Title"] = "Edit Service Request Status";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <form asp-action="UpdateStatus" method="post" class="mx-auto" style="max-width: 500px;">
+        <input type="hidden" asp-for="RequestID" />
+
+        <div class="mb-3">
+            <label asp-for="Status" class="form-label">Status</label>
+            <input asp-for="Status" class="form-control" required />
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-warning px-4">Update Status</button>
+            <a href="@Url.Action("Index", "ServiceRequest")" class="btn btn-secondary ms-2">Back to List</a>
+        </div>
+    </form>
+</div>

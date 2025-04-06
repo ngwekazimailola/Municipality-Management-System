@@ -1,0 +1,27 @@
+﻿@model MunicipalityManagementSystem.Models.ServiceRequest
+
+@{
+    ViewData["Title"] = "Create Service Request";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <form asp-action="Create" method="post" class="mx-auto" style="max-width: 600px;">
+        <div class="mb-3">
+            <label for="ServiceType" class="form-label">Service Type</label>
+            <input type="text" class="form-control" id="ServiceType" name="ServiceType" required />
+        </div>
+
+        <div class="mb-3">
+            <label for="Status" class="form-label">Status</label>
+            <input type="text" class="form-control" id="Status" name="Status" />
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary px-4">Create Service Request</button>
+            <a href="@Url.Action("Index", "ServiceRequest")" class="btn btn-secondary ms-2">Back to List</a>
+        </div>
+    </form>
+</div>
