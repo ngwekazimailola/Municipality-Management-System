@@ -11,7 +11,7 @@
     <p>Are you sure you want to delete the service request for <strong>@Model.ServiceType</strong> submitted by <strong>@Model.Citizen.FullName</strong>?</p>
 </div>
 
-<form asp-action="DeleteConfirmed" method="post">
+<form asp-action="Delete" method="post">
     <input type="hidden" name="id" value="@Model.RequestID" />
     <button type="submit" class="btn btn-danger">Delete Service Request</button>
     <a href="@Url.Action("Index", "ServiceRequest")" class="btn btn-secondary">Cancel</a>
