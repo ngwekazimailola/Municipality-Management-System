@@ -11,7 +11,7 @@
     <p>Are you sure you want to delete the report titled <strong>@Model.ReportType</strong> submitted by <strong>@Model.Citizen.FullName</strong>?</p>
 </div>
 
-<form asp-action="DeleteConfirmed" method="post">
+<form asp-action="Delete" method="post">
     <input type="hidden" name="id" value="@Model.ReportID" />
     <button type="submit" class="btn btn-danger">Delete Report</button>
     <a href="@Url.Action("Index", "Report")" class="btn btn-secondary">Cancel</a>
